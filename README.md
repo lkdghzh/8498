@@ -6,7 +6,7 @@
 
 ## Usage
 
-1. `npm install eslint-plugin-unar --save-dev`
+1. `npm i eslint-plugin-unar -S`
 2. create a file named `.eslintrc` in your project:
 
 ```js
