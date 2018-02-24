@@ -1,4 +1,4 @@
-# eslint-plugin-unar-extends
+# eslint-plugin-unar
 
 > ESLint plugin for extends in the unarjs organization.
 
@@ -6,12 +6,12 @@
 
 ## Usage
 
-1. `npm install eslint-plugin-unar-extends --save-dev`
+1. `npm install eslint-plugin-unar --save-dev`
 2. create a file named `.eslintrc` in your project:
 
 ```js
 {
-  extends: ["plugin:unar-extends/recommended"],
+  extends: ["plugin:unar/recommended"],
   rules: {
     // override if necessary
   }
