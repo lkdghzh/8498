@@ -6,7 +6,7 @@
 
 ## Usage
 
-1. `npm i eslint-plugin-unar -S`
+1. `npm i eslint-plugin-unar -D`
 2. create a file named `.eslintrc` in your project:
 
 ```js
