@@ -1,0 +1,19 @@
+{
+  "name": "eslint-plugin-unar",
+  "version": "0.0.1",
+  "description": "eslint plugin for unar.js project",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lkdghzh/eslint-plugin-unar-extends.git"
+  },
+  "keywords": [
+    "eslint-plugin-unar"
+  ],
+  "author": "like",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lkdghzh/eslint-plugin-unar-extends/issues"
+  },
+  "homepage": "https://github.com/lkdghzh/eslint-plugin-unar-extends#readme"
+}
