@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-unar",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "eslint plugin for unar.js project",
   "main": "index.js",
   "repository": {
