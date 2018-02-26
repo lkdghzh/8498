@@ -15,6 +15,7 @@ module.exports = {
     rules: {
         'no-eval': 2,
         'no-extra-semi': 2,
+        'semi':[2,'never'],
         "no-unused-vars": 2,
         'no-debugger': process.env.NODE_ENV === 'production' ? 2 : 0,
     }
